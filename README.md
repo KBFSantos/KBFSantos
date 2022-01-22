@@ -1,21 +1,25 @@
-## Olá, Eu Sou Kaiky Santos
-<p>Sou um Jovem de 18 anos muito interessado por tecnologia, em busca de alavancar minha carreira como programador.</p>
+## Olá, Eu Sou Kaiky 
+<p>18 Anos, Back-end Developer, Amante da Linguagem C</p>
 
-<div>
-  <a href="https://github.com/KBFSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KBFSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBFSantos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-## Sobre Mim
- <p> 
-   <ul>
-     <li>💼Atualmente Faço Pequenos Trabalhos em C++</li>
-     <li>🔭Meu Objetivo Atual é Aprender Desenvolvimento Web em Geral</li>
-     <li>📚Estudando: Javascript, HTML, CSS</li>
-     <li>🖥️Linguagens: C++, C#, Lua</li>
-    </ul>
- </p>
+<a href="https://spring-rabbit.itch.io/">
+  <img alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
+</a>
+
+
+## 💻Tecnologias
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+## 📚Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KBFSantos&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBFSantos" />
+</a>
+
 
 
 
