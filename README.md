@@ -1,5 +1,5 @@
 ## Olá, Eu Sou Kaiky 
-<p>18 Anos, Back-end Developer, Amante da Linguagem C</p>
+<p>18 Anos, Back-end Developer, Amante da Linguagem C. <br><br>Atualmente estudando: Ciência da computação, Engenharia reversa</p>
 
 <a href="https://spring-rabbit.itch.io/">
   <img alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
